@@ -54,6 +54,9 @@ dist
 # conda recipe
 conda-recipe
 
+# Virtual Environment
+/venv
+
 # tox testing tool
 .tox
 # rope
